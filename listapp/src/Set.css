@@ -1,0 +1,26 @@
+.Set{
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);;
+    border-style: double;
+   padding: 20%;
+   margin: 20%;
+    text-align: center;
+}
+
+
+button{
+    border-left-width: 20%;
+    margin: 4%;
+    padding: 5%;
+
+}
+.add{
+    background-color: red;
+    
+}
+.sub{
+    background-color: green;
+
+}
+.neutral{
+    background-color: blue;
+}

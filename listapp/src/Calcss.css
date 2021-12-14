@@ -1,0 +1,22 @@
+container{
+    border-style: double;
+}
+
+col-md-5{
+    border: 20px solid black;
+    margin-top: 150px;
+}
+button{
+    padding: 20%;
+}
+input{
+    width: 100%;
+}
+h1{
+    color: red;
+}
+#ro{
+    margin-top: 150px ;
+    margin-left: 150px;
+
+}
